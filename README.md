@@ -38,5 +38,7 @@ I am Data Analysist.
 ## 🛠 Skills
 1. Python
 2. Machine Learning
-3. Deep Learning
-4. Data Science
+3. Java
+4. Data Analysis
+5. MS Power BI
+6. SQL
