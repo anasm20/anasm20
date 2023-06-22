@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasm20&theme=vision-friendly-dark&show_icons=true)
 
 
-# Hi, I'm Anas Mohammad! 👋
+# Hi, I'm Anas! 👋
 
 
 ## 🚀 About Me
