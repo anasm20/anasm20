@@ -6,8 +6,7 @@
 
 
 ## 🚀 About Me
-I am Data Analysist.
-
+--
 
 
 
