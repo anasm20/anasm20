@@ -36,7 +36,7 @@
 ## 🛠 Skills
 1. Python
 2. Machine Learning
-3. Java
+3. JavaScript
 4. Data Analysis
 5. MS Power BI
 6. SQL
