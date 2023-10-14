@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-👩‍💻
+Hello 👋 I'm Anas, a passionate Software Developer and BI Analyst with a keen interest in exploring the realms of data science and business intelligence. My journey in the world of programming has been an exciting adventure, and I'm constantly eager to learn and grow. 
 
 
 
