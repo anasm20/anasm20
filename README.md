@@ -39,4 +39,5 @@ Hello 👋 I'm Anas, a passionate Software Developer and BI Analyst with a keen 
 3. JavaScript
 4. Data Analysis
 5. MS Power BI
-6. SQL
+6. MS Fabric
+7. SQL
