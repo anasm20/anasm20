@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasm20&theme=vision-friendly-dark&show_icons=true)
 
 
-# Hi, I'm Anas! 👋
+## Hi, Welcome in my Github! 👋
 
 
 ## 🚀 About Me
@@ -12,10 +12,10 @@ Hello 👋 I'm Anas, a passionate Software Developer and BI Analyst with a keen 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.anas-mohammad.net/)
-[Besuchen Sie mein LinkedIn-Profil](https://www.linkedin.com/in/anas-mohammad-sw)
-([https://www.linkedin.com/in/anas-mohammad-sw](https://www.linkedin.com/in/anas-mohammad-sw))
+[LinkedIn-Profil](https://www.linkedin.com/in/anas-mohammad-sw)
+
 <a href="https://www.linkedin.com/in/anas-mohammad-sw" target="_blank">
-    <img src="https://www.linkedin.com/img/webpromo/btn_myprofile_blue_80x15.png" width="80" height="15" border="0" alt="View my LinkedIn profile">
+    <img src="[https://www.linkedin.com/img/webpromo/btn_myprofile_blue_80x15.png](https://pollingersocial.co.uk/wp-content/uploads/2014/03/view-my-linkedin-profile.png)" width="80" height="15" border="0" alt="View my LinkedIn profile">
 </a>
 
 
