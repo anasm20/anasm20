@@ -11,8 +11,11 @@ Hello 👋 I'm Anas, a passionate Software Developer and BI Analyst with a keen 
 
 
 ## 🔗 Links
+
+### Website:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.anas-mohammad.net/)
 
+### Linkedin Profile
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/anas-mohammad-sw)
 
 
