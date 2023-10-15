@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasm20&theme=vision-friendly-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasm20&layout=bars)](https://github.com/anasm20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasm20&layout=pie)](https://github.com/anasm20)
 
 ## Hi, Welcome in my Github! 👋
 
