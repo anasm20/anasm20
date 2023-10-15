@@ -1,5 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasm20&theme=vision-friendly-dark&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anasm20/github-readme-stats)
 
 ## Hi, Welcome in my Github! 👋
 
