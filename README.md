@@ -8,17 +8,14 @@
 Hello 👋 I'm Anas, a passionate Software Developer and BI Analyst with a keen interest in exploring the realms of data science and business intelligence. My journey in the world of programming has been an exciting adventure, and I'm constantly eager to learn and grow. 
 
 
-
-
-## 🔗 Links
-
-### Website:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.anas-mohammad.net/)
-
-### Linkedin Profile
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/anas-mohammad-sw)
-
-
+## 🛠 Skills
+1. Python
+2. Machine Learning
+3. JavaScript
+4. Data Analysis
+5. MS Power BI
+6. MS Fabric
+7. SQL
 
 
 ## Other Profile Sections
@@ -39,11 +36,3 @@ Hello 👋 I'm Anas, a passionate Software Developer and BI Analyst with a keen 
 ⚡️ Fun fact...
 
 
-## 🛠 Skills
-1. Python
-2. Machine Learning
-3. JavaScript
-4. Data Analysis
-5. MS Power BI
-6. MS Fabric
-7. SQL
