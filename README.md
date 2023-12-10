@@ -36,7 +36,7 @@ Hello 👋 I'm Anas, a passionate Software Developer and BI Analyst with a keen 
 
 ## Github Stats  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=AlejoG10&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=anasm20&&style=flat-square" align="center" />
 </div>  
 
 <br />
