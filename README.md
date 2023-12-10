@@ -34,3 +34,7 @@ Hello 👋 I'm Anas, a passionate Software Developer and BI Analyst with a keen 
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlejoG10&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
