@@ -30,6 +30,7 @@ Hello 👋 I'm Anas, a passionate Software Developer and BI Analyst with a keen 
 ![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![GitHub Actions](https://img.icons8.com/color/48/000000/github.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png) 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 ![SQL](https://img.icons8.com/color/48/000000/sql.png) 
 
 
