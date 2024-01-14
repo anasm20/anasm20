@@ -4,11 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasm20&layout=pie)](https://github.com/anasm20)
 
-## Hi, Welcome in my Github! 👋
-
-
 ## 🚀 About Me
-Hello 👋 I'm Anas, a passionate Software Developer and BI Analyst with a keen interest in exploring the realms of data science and business intelligence. My journey in the world of programming has been an exciting adventure, and I'm constantly eager to learn and grow. 
+Hello, I'm Anas, a passionate Software Developer and BI Analyst with a keen interest in exploring the realms of data science and business intelligence. My journey in the world of programming has been an exciting adventure, and I'm constantly eager to learn and grow. 
 
 
 ## 🛠 Skills
@@ -19,6 +16,7 @@ Hello 👋 I'm Anas, a passionate Software Developer and BI Analyst with a keen 
 5. MS Power BI
 6. MS Fabric
 7. SQL
+8. HTML/CSS
 
 ## 🔧 Tools
 
