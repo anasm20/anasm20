@@ -1,4 +1,4 @@
-![ # Hi there, I'm Anas 👋](https://github.com/anasm20/anasm20/assets/112882511/2bd71b9c-1950-4a5c-9c05-783526ac9649)
+![Hi there, I'm Anas](https://github.com/anasm20/anasm20/assets/112882511/28d3c553-245e-432d-94b9-47f8baea69ff)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasm20&theme=vision-friendly-dark&show_icons=true)
 
