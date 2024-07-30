@@ -14,6 +14,7 @@
 6. MS Fabric
 7. SQL
 8. HTML/CSS
+9. PL/SQL
 
 ## 🔧 Tools
 
