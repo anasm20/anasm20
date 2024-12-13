@@ -1,10 +1,10 @@
 ![Hi there, I'm Anas](https://github.com/anasm20/anasm20/assets/112882511/45289dcd-4f22-44f6-9735-b59d366d832e)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasm20&theme=vision-friendly-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasm20&layout=pie)](https://github.com/anasm20)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🛠 Skills
 1. Python
